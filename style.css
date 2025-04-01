@@ -17,6 +17,7 @@ body{
     transform: scale(1.05);
 }
 
+
 .dropdown-menu {
     border: none;
     box-shadow: 0 5px 15px rgba(146, 70, 246, 0.1);
@@ -56,6 +57,16 @@ h1 h2{
 .cover-small {
     height: 250px;
 
+}
+.cover-bottom-image {
+    width: 90%;
+    height: auto;
+    display: block;
+    border-top: 2px solid #f0f0f0;
+    margin-left: 10%;
+    margin-right: 100%;
+    padding: 0 5%;
+    border-radius: 4px;
 }
 .card {
     border: 0 !important;
