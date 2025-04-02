@@ -68,6 +68,23 @@ h1 h2{
     padding: 0 5%;
     border-radius: 4px;
 }
+/* Estilos para las nuevas secciones */
+.bg-light-custom {
+    background-color: #f8f9fa !important;
+}
+
+.py-4 {
+    padding-top: 2rem !important;
+    padding-bottom: 2rem !important;
+}
+
+.shadow {
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15) !important;
+}
+
+.rounded {
+    border-radius: .375rem !important;
+}
 .card {
     border: 0 !important;
     box-shadow: 0 4px 6px -1px rgba(0,0,0,1),0 2px 4px -1px rgba(0,0,0,0.06);
